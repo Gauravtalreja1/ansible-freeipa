@@ -1,0 +1,6 @@
+{
+    "name": "CI for ansible-freeipa",
+    "description": "CI for ansible-freeipa",
+    "iconName": "CI",
+    "categories": ["CI"]
+}
